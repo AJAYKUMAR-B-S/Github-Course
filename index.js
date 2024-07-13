@@ -4,7 +4,7 @@ function showNum() {
 
 const firstName = "Ajay";
 function showName() {
-  console.log(firstNamee);
+  console.log(firstName);
 }
 
 const fetchData = async function () {
